@@ -1,0 +1,22 @@
+{
+  "name": "JoDesigner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./out/main",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "keywords": [],
+  "author": "josonyang",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.34",
+    "electron": "^12.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JosonYang/JoDesigner.git"
+  },
+  "dependencies": {
+  }
+}

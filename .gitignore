@@ -1,0 +1,14 @@
+node_modules
+.vscode
+.DS_Store
+.vscode
+es
+lib
+dist
+_site
+package
+tmp*
+temp*
+.idea/
+yarn.lock
+out
